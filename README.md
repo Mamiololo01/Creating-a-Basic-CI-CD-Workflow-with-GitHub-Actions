@@ -70,6 +70,8 @@ After you have specified a repository name and the Terraform .gitignore template
 
 Now, we will navigate to “Settings” >>> “Environments”.
 
+<img width="1235" alt="Screenshot 2023-04-12 at 18 19 15" src="https://user-images.githubusercontent.com/67044030/231545776-ea98eec8-ea7f-4138-a3bc-8735cb7b5502.png">
+
 
 
 Create two environments, “Staging” and “Production”.
