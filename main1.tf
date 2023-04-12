@@ -6,14 +6,14 @@ terraform {
     }
   }
   backend "s3" {
-    bucket         = "<Backend State S3 Bucket Name>"
+    bucket         = "gitactioncicd2023"
     key            = "terraform/terraform.tfstate"
-    dynamodb_table = "<Dependency Lock DynamoDB Table Name>"
+    dynamodb_table = "terraform_lock"
   }
 }
 
 resource "aws_s3_bucket" "s3" {
-  bucket = "<Terraform S3 Bucket Name>"
+  bucket = "sgitactioncicd2023"
 
   tags = {
     Name        = "GitHub Actions Bucket"
