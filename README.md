@@ -87,6 +87,8 @@ Don’t make any changes to the Staging environment and go back to the Environme
 
 Add yourself as a required reviewer in the Production environment and select “Save protection rules”.
 
+<img width="810" alt="Screenshot 2023-04-12 at 18 23 28" src="https://user-images.githubusercontent.com/67044030/231546530-158d0bcd-f3b1-4b7a-82a8-a7cf65571f99.png">
+
 
 Step 3: Add AWS secret and access key credentials to GitHub secrets
 
