@@ -175,6 +175,8 @@ Here we can view details on all the steps performed in the Build job.
   
   
  After a few moments, you should receive a success status message.
+ 
+ <img width="1238" alt="Screenshot 2023-04-12 at 18 46 22" src="https://user-images.githubusercontent.com/67044030/231551008-20e3b4fc-cb92-444f-afd5-2be31185b7d2.png">
 
 From here, you can review the Deploy build details or head to the AWS management console to verify that your S3 bucket deployed successfully.
 
