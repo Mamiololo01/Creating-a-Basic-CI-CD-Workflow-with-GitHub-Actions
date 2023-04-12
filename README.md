@@ -180,6 +180,8 @@ Here we can view details on all the steps performed in the Build job.
 
 From here, you can review the Deploy build details or head to the AWS management console to verify that your S3 bucket deployed successfully.
 
+<img width="920" alt="Screenshot 2023-04-12 at 18 47 09" src="https://user-images.githubusercontent.com/67044030/231551233-759e97f9-5f49-4344-a4c0-526c3bffd793.png">
+
 
 Bonus Step: Make a change to Terraform code and verify GitHub Actions workflow is triggered as expected
   
