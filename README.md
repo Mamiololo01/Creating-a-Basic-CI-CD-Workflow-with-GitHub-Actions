@@ -107,7 +107,7 @@ NOTE: Your AWS_REGION doesn’t have to be a secret, but from a security perspec
 Select “New repository secret” >>> Enter your values >>> Select “Add secret”
 
 
-
+<img width="863" alt="Screenshot 2023-04-12 at 18 31 48" src="https://user-images.githubusercontent.com/67044030/231547352-c519be99-dfc5-4173-9ad8-55775167117c.png">
 
 
 Repeat this step for the AWS_SECRET_ACCESS_KEY and AWS_REGION secret variables.
