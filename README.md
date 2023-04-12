@@ -23,7 +23,9 @@ Confirm Build job executes successfully in your Staging environment.
 Approve deployment to your Production environment.
 
 
+
 Prerequisites:
+
 
 Basic GitHub/AWS/Terraform Knowledge
 
