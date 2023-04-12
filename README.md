@@ -146,7 +146,8 @@ Once you are done entering the code above, commit the change.
 <img width="1222" alt="Screenshot 2023-04-12 at 18 39 28" src="https://user-images.githubusercontent.com/67044030/231548223-df358a53-3223-4f01-b84f-70939aae9d55.png">
  
  <img width="1244" alt="Screenshot 2023-04-12 at 18 40 33" src="https://user-images.githubusercontent.com/67044030/231548860-54266ba1-aad3-4e15-871c-3a610f9b3bee.png">
-  
+ 
+ <img width="1237" alt="Screenshot 2023-04-12 at 18 41 56" src="https://user-images.githubusercontent.com/67044030/231549364-06e71280-5457-4a00-98fd-234afc6a6f45.png">
   
 Step 6: Confirm Build job executes successfully in your Staging environment and approve deployment to your Production environment
   
