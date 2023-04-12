@@ -96,6 +96,7 @@ For our GitHub Actions workflow runners (virtual machines/containers) to deploy 
 
 Settings >>> Secrets >>> Actions
 
+<img width="1251" alt="Screenshot 2023-04-12 at 18 24 51" src="https://user-images.githubusercontent.com/67044030/231547020-9b251700-2fd3-4ec0-b700-424eb1e4e4c2.png">
 
 
 
