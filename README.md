@@ -224,6 +224,8 @@ aws s3 rb s3://<bucket_name> --force
 
 <img width="756" alt="Screenshot 2023-04-12 at 18 52 47" src="https://user-images.githubusercontent.com/67044030/231552304-6f2c6063-ce78-49c2-a9a4-f7c88225d79b.png">
 
+<img width="750" alt="Screenshot 2023-04-12 at 18 53 18" src="https://user-images.githubusercontent.com/67044030/231552543-0e7f7af9-41d7-4f52-b853-5c902bb1fd32.png">
+
 Delete the DynamoDB table.
 
 aws dynamodb delete-table --table-name <table_name>
