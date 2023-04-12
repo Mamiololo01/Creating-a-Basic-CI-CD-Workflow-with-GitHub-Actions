@@ -9,11 +9,17 @@ GitHub Actions is a CI/CD platform that allows you to automate your build, test,
 Objectives:
 
 Create an AWS S3 bucket and DynamoDB table to store Terraform's backend state and dependency lock life.
+
 Create a Staging and Production environment with a required manual approval stage in a new GitHub repository.
+
 Add AWS secret and access key credentials to GitHub secrets.
+
 Write and commit Terraform code that will deploy a new AWS S3 bucket.
+
 Create a GitHub Actions Workflow file in YAML.
+
 Confirm Build job executes successfully in your Staging environment.
+
 Approve deployment to your Production environment.
 
 
@@ -54,7 +60,6 @@ Create two environments, “Staging” and “Production”.
 
 
 
-
 Don’t make any changes to the Staging environment and go back to the Environments section.
 
 
@@ -63,10 +68,10 @@ Add yourself as a required reviewer in the Production environment and select “
 
 
 Step 3: Add AWS secret and access key credentials to GitHub secrets
+
 For our GitHub Actions workflow runners (virtual machines/containers) to deploy resources on our behalf to AWS, we must configure the GitHub repository with AWS access and secret key credentials. We will use GitHub secrets to ensure that these sensitive materials aren’t in plain text.
 
 Settings >>> Secrets >>> Actions
-
 
 
 
@@ -87,7 +92,6 @@ The final product should look like this.
 
 
 
-
 NOTE: You must confirm that the AWS Access and Secret keys you provide have the necessary permissions to access the S3 backend state bucket and DynamoDB lock table and the permission to deploy the new S3 bucket.
 
 Step 4: Write and commit Terraform code that will deploy a new AWS S3 bucket
@@ -103,6 +107,7 @@ For <Terraform S3 Bucket Name> enter a unique name for the new S3 bucket you wil
   
   
 Step 5: Create GitHub Actions YAML file
+
 To create our GitHub Actions YAML file, we must navigate to the Actions section of the GitHub repository.
 
 Actions >>> Select “set up a workflow yourself”
@@ -136,7 +141,7 @@ Here we can view details on all the steps performed in the Build job.
 From here, you can review the Deploy build details or head to the AWS management console to verify that your S3 bucket deployed successfully.
 
 
-  Bonus Step: Make a change to Terraform code and verify GitHub Actions workflow is triggered as expected
+Bonus Step: Make a change to Terraform code and verify GitHub Actions workflow is triggered as expected
   
 Navigate to Code >>> main.tf >>> Edit the file
   
@@ -149,7 +154,7 @@ Once complete, commit the change.
 Head back over to the Actions section, select “Update main.tf”, and review the workflow status.
   
   
- Similar to our previous commit, our Build job was successful, and we are waiting for approval to release the change into the Production environment.
+Similar to our previous commit, our Build job was successful, and we are waiting for approval to release the change into the Production environment.
 
 Select “Review deployments” and approve.
   
