@@ -44,6 +44,8 @@ Create an S3 bucket for the backend state:
 
 <img width="728" alt="Screenshot 2023-04-12 at 18 12 50" src="https://user-images.githubusercontent.com/67044030/231543490-1c2447ab-e978-4501-bc52-311a56910691.png">
 
+<img width="898" alt="Screenshot 2023-04-12 at 18 13 58" src="https://user-images.githubusercontent.com/67044030/231543693-dbd60390-265d-4811-9a3e-28b9d2528b93.png">
+
 
 Create a DynamoDB table for the dependency lock file:
 
