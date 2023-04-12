@@ -142,6 +142,8 @@ Actions >>> Select “set up a workflow yourself”
 NOTE: on line 5, where it says “branches: [master]”, you may have to change the branch name to main or whatever you used to name your default main branch.
 
 Once you are done entering the code above, commit the change.
+
+<img width="1222" alt="Screenshot 2023-04-12 at 18 39 28" src="https://user-images.githubusercontent.com/67044030/231548223-df358a53-3223-4f01-b84f-70939aae9d55.png">
   
   
   
