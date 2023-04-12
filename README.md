@@ -150,6 +150,8 @@ Once you are done entering the code above, commit the change.
  <img width="1237" alt="Screenshot 2023-04-12 at 18 41 56" src="https://user-images.githubusercontent.com/67044030/231549364-06e71280-5457-4a00-98fd-234afc6a6f45.png">
   
 Step 6: Confirm Build job executes successfully in your Staging environment and approve deployment to your Production environment
+
+<img width="1254" alt="Screenshot 2023-04-12 at 18 42 57" src="https://user-images.githubusercontent.com/67044030/231549671-466e2f88-68f6-40fd-b6bd-3e7079c92678.png">
   
 To review our workflow jobs' status, head back to the Action section in GitHub.
   
