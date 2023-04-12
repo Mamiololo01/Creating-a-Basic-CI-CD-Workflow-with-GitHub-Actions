@@ -6,7 +6,7 @@ This week, I had the pleasure of exploring GitHub actions to automate a Terrafor
 GitHub Actions is a CI/CD platform that allows you to automate your build, test, and deployment pipelines based on triggered events in your GitHub repository. The workflow file is defined using YAML and located within the .github/workflows directory. Every workflow has one or more jobs, and each job runs inside its own virtual machine or container (also known as “runners”) running Windows, Linux, or MacOS. Please visit the official documentation link below for more information on GitHub Actions.
 
 
-Objectives:
+#Objectives:
 
 Create an AWS S3 bucket and DynamoDB table to store Terraform's backend state and dependency lock life.
 
@@ -24,7 +24,7 @@ Approve deployment to your Production environment.
 
 
 
-Prerequisites:
+#Prerequisites:
 
 
 Basic GitHub/AWS/Terraform Knowledge
@@ -58,7 +58,6 @@ Now, we will navigate to “Settings” >>> “Environments”.
 
 
 Create two environments, “Staging” and “Production”.
-
 
 
 
