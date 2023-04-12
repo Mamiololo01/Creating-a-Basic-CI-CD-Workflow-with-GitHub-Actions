@@ -67,6 +67,8 @@ After you have specified a repository name and the Terraform .gitignore template
 
 <img width="1070" alt="Screenshot 2023-04-12 at 18 18 33" src="https://user-images.githubusercontent.com/67044030/231545161-3f55c2cc-70c6-42b5-a6ca-79f92e56aac7.png">
 
+<img width="1070" alt="Screenshot 2023-04-12 at 18 18 33" src="https://user-images.githubusercontent.com/67044030/231545445-b5e8b2c7-ee96-48bb-b7c5-60d360af76ad.png">
+
 Now, we will navigate to “Settings” >>> “Environments”.
 
 
