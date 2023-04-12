@@ -182,6 +182,8 @@ From here, you can review the Deploy build details or head to the AWS management
 
 <img width="920" alt="Screenshot 2023-04-12 at 18 47 09" src="https://user-images.githubusercontent.com/67044030/231551233-759e97f9-5f49-4344-a4c0-526c3bffd793.png">
 
+<img width="1242" alt="Screenshot 2023-04-12 at 18 48 48" src="https://user-images.githubusercontent.com/67044030/231551474-ebdf0d9c-ef24-440a-bc0c-8c14ad92f63a.png">
+
 
 Bonus Step: Make a change to Terraform code and verify GitHub Actions workflow is triggered as expected
   
