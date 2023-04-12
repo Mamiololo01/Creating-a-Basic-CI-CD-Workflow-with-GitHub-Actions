@@ -76,6 +76,8 @@ Now, we will navigate to “Settings” >>> “Environments”.
 
 Create two environments, “Staging” and “Production”.
 
+<img width="893" alt="Screenshot 2023-04-12 at 18 21 08" src="https://user-images.githubusercontent.com/67044030/231546026-06517efe-3d2d-4425-a530-899217ee0902.png">
+
 
 
 Don’t make any changes to the Staging environment and go back to the Environments section.
