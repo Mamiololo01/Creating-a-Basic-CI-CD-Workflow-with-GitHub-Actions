@@ -49,6 +49,8 @@ Create an S3 bucket for the backend state:
 
 Create a DynamoDB table for the dependency lock file:
 
+<img width="721" alt="Screenshot 2023-04-12 at 18 15 15" src="https://user-images.githubusercontent.com/67044030/231544024-27dd2911-c994-4619-9f69-ad65da578f26.png">
+
 
 Step 2: Create a Staging and Production environment with a required manual approval stage in a new GitHub repository
 In this step, we will create a new GitHub repository and the required Staging and Production environments to simulate a required manual approval stage.
