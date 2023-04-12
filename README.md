@@ -79,8 +79,9 @@ Create two environments, “Staging” and “Production”.
 <img width="893" alt="Screenshot 2023-04-12 at 18 21 08" src="https://user-images.githubusercontent.com/67044030/231546026-06517efe-3d2d-4425-a530-899217ee0902.png">
 
 
-
 Don’t make any changes to the Staging environment and go back to the Environments section.
+
+<img width="1156" alt="Screenshot 2023-04-12 at 18 22 09" src="https://user-images.githubusercontent.com/67044030/231546289-7291e439-a975-480d-9edf-6252a7ed86d9.png">
 
 
 
