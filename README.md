@@ -170,6 +170,8 @@ Here we can view details on all the steps performed in the Build job.
  Navigate to the GitHub Action/Create main.yml page and select “Review deployments”
   
  Since we are the reviewer, we can review and approve the deployment. We also have the option to leave additional comments and/or reject the deployment.
+ 
+ <img width="1241" alt="Screenshot 2023-04-12 at 18 45 32" src="https://user-images.githubusercontent.com/67044030/231550683-a4e14a7d-1948-480b-bcb4-161e7d0d66c0.png">
   
   
  After a few moments, you should receive a success status message.
