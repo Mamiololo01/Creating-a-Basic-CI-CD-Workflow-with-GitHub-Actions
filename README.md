@@ -135,6 +135,8 @@ Step 5: Create GitHub Actions YAML file
 To create our GitHub Actions YAML file, we must navigate to the Actions section of the GitHub repository.
 
 Actions >>> Select “set up a workflow yourself”
+
+<img width="1036" alt="Screenshot 2023-04-12 at 18 37 37" src="https://user-images.githubusercontent.com/67044030/231547778-1fa8b3d0-c8bc-4268-b214-99b36992a5f1.png">
   
   
 NOTE: on line 5, where it says “branches: [master]”, you may have to change the branch name to main or whatever you used to name your default main branch.
