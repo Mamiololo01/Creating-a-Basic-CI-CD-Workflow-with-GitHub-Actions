@@ -212,6 +212,8 @@ Step 8: Clean Up
 Delete the GitHub repository.
 
 <img width="1372" alt="Screenshot 2023-04-12 at 18 50 02" src="https://user-images.githubusercontent.com/67044030/231551793-a91d4844-6cb2-4dcc-bd3d-c878793dd828.png">
+
+<img width="1253" alt="Screenshot 2023-04-12 at 18 50 51" src="https://user-images.githubusercontent.com/67044030/231552016-18624e8e-4a7a-4a0a-bf78-e519db02f04e.png">
   
 Delete the two S3 buckets and DynamoDB table in the AWS console or use these commands in your local terminal.
 
