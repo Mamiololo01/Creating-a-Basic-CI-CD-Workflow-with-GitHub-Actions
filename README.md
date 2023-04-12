@@ -53,6 +53,8 @@ Create a DynamoDB table for the dependency lock file:
 
 <img width="668" alt="Screenshot 2023-04-12 at 18 15 26" src="https://user-images.githubusercontent.com/67044030/231544412-aa66fdd8-815d-4a0f-96fb-9a801fcbc2ed.png">
 
+<img width="922" alt="Screenshot 2023-04-12 at 18 17 06" src="https://user-images.githubusercontent.com/67044030/231544645-75d9c909-6a8d-4554-8b34-2af4ff3e4c70.png">
+
 
 Step 2: Create a Staging and Production environment with a required manual approval stage in a new GitHub repository
 In this step, we will create a new GitHub repository and the required Staging and Production environments to simulate a required manual approval stage.
