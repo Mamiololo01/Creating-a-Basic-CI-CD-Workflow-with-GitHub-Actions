@@ -42,6 +42,8 @@ Before we create and configure our GitHub repository and write our terraform cod
 
 Create an S3 bucket for the backend state:
 
+<img width="728" alt="Screenshot 2023-04-12 at 18 12 50" src="https://user-images.githubusercontent.com/67044030/231543490-1c2447ab-e978-4501-bc52-311a56910691.png">
+
 
 Create a DynamoDB table for the dependency lock file:
 
