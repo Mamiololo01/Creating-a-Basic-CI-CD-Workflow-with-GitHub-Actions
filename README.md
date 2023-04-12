@@ -161,6 +161,8 @@ To review our workflow jobs' status, head back to the Action section in GitHub.
 As we can see, the workflow is in a “waiting” status because manual approval is required from the reviewer. Click on “Create main.yml” and then select the Build job to view additional details.
 
 Here we can view details on all the steps performed in the Build job.
+
+<img width="887" alt="Screenshot 2023-04-12 at 18 44 34" src="https://user-images.githubusercontent.com/67044030/231550265-de41837b-9b4b-4284-81a0-50edd9e2664c.png">
   
   
  If you look at the Terraform plan step, you will see the exact details you would if you executed the command locally in your terminal.
