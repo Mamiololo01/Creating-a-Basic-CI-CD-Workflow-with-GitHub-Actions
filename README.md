@@ -63,6 +63,8 @@ Log into GitHub and create a new repository:
 
 After you have specified a repository name and the Terraform .gitignore template, as seen in the screenshot above, scroll down to the bottom of the page and select “Create Repository”.
 
+<img width="936" alt="Screenshot 2023-04-12 at 18 18 13" src="https://user-images.githubusercontent.com/67044030/231544982-13b1a18a-bcdf-4495-a081-32606fd788b6.png">
+
 Now, we will navigate to “Settings” >>> “Environments”.
 
 
