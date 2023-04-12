@@ -230,4 +230,6 @@ Delete the DynamoDB table.
 
 aws dynamodb delete-table --table-name <table_name>
 
+<img width="728" alt="Screenshot 2023-04-12 at 19 36 20" src="https://user-images.githubusercontent.com/67044030/231553219-54dc3e69-7522-4635-84cc-d13424e6ba4e.png">
+
 Settings >> Scroll Down >> Select “Delete this repository”
